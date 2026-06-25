@@ -1,0 +1,57 @@
+# Electronic Shop Management System
+
+## Project Description
+
+Electronic Shop Management System is a web-based application developed using Spring Boot and MySQL to manage products, suppliers, customers, inventory, purchases, sales, billing, and reports efficiently.
+
+The system helps shop owners streamline daily operations by maintaining accurate records and improving business management.
+
+## Features
+
+* Product Management
+* Supplier Management
+* Customer Management
+* Inventory Management
+* Purchase Management
+* Sales Management
+* Billing System
+* Reports Generation
+
+## Technologies Used
+
+* Java
+* Spring Boot
+* MySQL
+* HTML
+* CSS
+* Bootstrap
+* Gradle
+
+## Modules
+
+### Admin Module
+
+* Manage products, suppliers, and customers
+* Monitor inventory stock
+
+### Sales Module
+
+* Process customer sales
+* Generate bills and invoices
+
+### Reports Module
+
+* View purchase reports
+* View sales reports
+* Track inventory status
+
+## Benefits
+
+* Easy product tracking
+* Efficient billing process
+* Better inventory management
+* Improved business reporting
+
+## Author
+
+**Jyoti More**
